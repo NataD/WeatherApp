@@ -45,7 +45,7 @@ Alternatively, if you prefer to use npm, you can install the dependencies using:
 ### Running the project
 To run the project, use the following command:
 
-`expo start`
+`yarn start`
 
 This will start the Expo development server. You can then open the app in a simulator or scan the QR code on your device using the Expo Go app.
 
